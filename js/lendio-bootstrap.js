@@ -1,1 +1,1 @@
-console.log("lamscun PoC");
+alert("lamscun PoC");
